@@ -15,5 +15,3 @@ def agregarNovedad(idEquipo, fecha, descripcion):
         print(f'Novedad agregada al equipo con ID {idEquipo}.')
     else:
         print(f'El equipo con ID {idEquipo} no existe.')
-
-
